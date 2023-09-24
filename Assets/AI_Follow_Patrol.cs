@@ -7,7 +7,6 @@ public enum e_AI_State
 {
     FollowPlayer,
     Patrol
-
 }
 //Required Navmesh agent component
 
